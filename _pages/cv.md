@@ -44,6 +44,12 @@ Skills
 * Server Operations and Maintenance.
 * Study Area: Spatio-temporal Prediction, Deep Reinforcement Learning, Graph Neural Network (as a novice).
 
+Awards & Honors
+======
+* *National 1st Prize*, Award on ***China Undergraduate Mathematical Contest in Modelin***, Nov. 2021.
+* *National Bronze Prize*, Award on ***China Undergraduate Algorithm Design and Programming Challenge***, 2020.
+* *Scholarships*, from *SYSU Outstanding Student Scholarship*, total 2 for grade 1 and grade 2, 2020 and 2021.
+
 Publications
 ======
   <ul>{% for post in site.publications %}

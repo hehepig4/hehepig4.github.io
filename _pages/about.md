@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-temp
+This page is Zuohan Wu (吴左晗) 's on-building personal page, powered by github pages.  
+
+Hobbies:  
+- Coffee
+- etc.
 
 

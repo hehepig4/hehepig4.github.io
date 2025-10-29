@@ -40,6 +40,7 @@ This work extends our ICDE 2023 paper "Opponent-aware Order Pricing towards Hub-
 
 ## BibTeX
 
+{% raw %}
 ```bibtex
 @article{DBLP:journals/tkde/WuZYMZZL25,
   author       = {Zuohan Wu and
@@ -60,3 +61,4 @@ This work extends our ICDE 2023 paper "Opponent-aware Order Pricing towards Hub-
   doi          = {10.1109/TKDE.2025.3551147}
 }
 ```
+{% endraw %}

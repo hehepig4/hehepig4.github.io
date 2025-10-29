@@ -38,6 +38,7 @@ This work represents a significant advancement in applying large language models
 
 ## BibTeX
 
+{% raw %}
 ```bibtex
 @inproceedings{wu2026maidlog,
   author       = {Zuohan Wu and
@@ -53,6 +54,7 @@ This work represents a significant advancement in applying large language models
   note         = {To appear}
 }
 ```
+{% endraw %}
 
 ---
 

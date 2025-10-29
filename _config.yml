@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "zh-CN"
-title                    : "Zuohan Wu's Pages"
+locale                   : "en-US"
+title                    : "Zuohan Wu (吴左晗)"
 title_separator          : "-"
-name                     : &name "Zuohan Wu's Pages"
-description              : &description "Undergraduate student in Sun Yat-sen University, China."
+name                     : &name "Zuohan Wu"
+description              : &description "PhD student at HKUST(GZ), focusing on LLMs, Data Mining, and Deep Learning for Data Engineering."
 url                      : https://hehepig4.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hehepig4/hehepig4.github.io"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Zuohan Wu"
-  avatar           : "profile.png"
-  bio              : "Undergraduate student in Sun Yat-sen University, China."
-  location         : "China"
+  avatar           : "photo.jpg"
+  bio              : "PhD student at HKUST(GZ) | Data Science & Analytics"
+  location         : "Guangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            : "wuzh76@mail2.sysu.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=mf2TLIIAAAAJ"
+  email            : "zh.wu@connect.hkust-gz.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-6166-3690"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

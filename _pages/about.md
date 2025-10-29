@@ -8,10 +8,40 @@ redirect_from:
   - /about.html
 ---
 
-This page is Zuohan Wu (吴左晗) 's on-building personal page, powered by github pages.  
+**English** | [中文版](/zh/)
 
-<img src="https://hehepig4.github.io/images/profile.png" width="25%" alt="图1" div align="center" /> Hobbies:  
-- Coffee
-- etc.
+## Biography
+
+I am Zuohan Wu (吴左晗), a PhD student in the [Thrust of Data Science and Analytics](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/) at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), where I am fortunate to be advised by [Prof. Lei Chen](https://www.hkust-gz.edu.cn/people/lei-chen/) and Prof. Yongqi Zhang at the [Big Data Institute](https://www.hkust-gz.edu.cn/research/).
+
+I received my B.Eng. degree in Artificial Intelligence from Sun Yat-sen University in 2024 (GPA: 3.9/4.0, Rank: 7/71, Top 10%). My undergraduate thesis was awarded University-level Excellent Thesis under the supervision of Prof. Libin Zheng.
+
+## Research Interests
+
+My research focuses on developing intelligent systems that automate complex and labor-intensive tasks in data engineering and analytics, making data-driven insights more accessible and actionable. My current research interests include:
+
+- **Large Language Models (LLMs)** for data engineering and analytics
+- **Data Mining** and knowledge discovery
+- **Deep Learning** applications in real-world data systems
+- **Reinforcement Learning** for dynamic optimization problems
+
+## Recent News
+
+- **[Oct 2025]** Our paper on zero-shot log anomaly detection has been accepted by **ICDE 2026**!
+- **[Jun 2025]** Our paper on reinforcement learning-based pricing strategy has been published in **IEEE TKDE**!
+- **[Sep 2024]** Started my PhD journey at HKUST(GZ).
+- **[Apr 2023]** Presented our work on hub-oriented mobility services at **ICDE 2023** in Anaheim, California.
+
+
+## Contact
+
+- **Email**: zh.wu [at] connect.hkust-gz.edu.cn
+- **GitHub**: [hehepig4](https://github.com/hehepig4)
+- **Google Scholar**: [Profile](https://scholar.google.com/citations?user=mf2TLIIAAAAJ)
+- **ORCID**: [0000-0001-6166-3690](https://orcid.org/0000-0001-6166-3690)
+
+---
+
+*"Automating complexity, democratizing insights."*
 
 

@@ -12,9 +12,9 @@ redirect_from:
 
 ## Biography
 
-I am Zuohan Wu (吴左晗), a PhD student in the [Thrust of Data Science and Analytics](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/) at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), where I am fortunate to be advised by [Prof. Lei Chen](https://www.hkust-gz.edu.cn/people/lei-chen/) and Prof. Yongqi Zhang at the [Big Data Institute](https://www.hkust-gz.edu.cn/research/).
+I am Zuohan Wu (吴左晗), a PhD student in the [Thrust of Data Science and Analytics](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/) at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), where I am fortunate to be advised by [Prof. Lei Chen](https://www.hkust-gz.edu.cn/people/lei-chen/) and [Prof. Yongqi Zhang](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/ZHANG-Yongqi/yongqizhang) at the [Big Data Institute](https://www.hkust-gz.edu.cn/research/).
 
-I received my B.Eng. degree in Artificial Intelligence from Sun Yat-sen University in 2024 (GPA: 3.9/4.0, Rank: 7/71, Top 10%). My undergraduate thesis was awarded University-level Excellent Thesis under the supervision of Prof. Libin Zheng.
+I received my B.Eng. degree in Artificial Intelligence from Sun Yat-sen University in 2024 (GPA: 3.9/4.0, Rank: 7/71, Top 10%). My undergraduate thesis was awarded University-level Excellent Thesis under the supervision of [Prof. Libin Zheng](https://libinzheng.github.io/).
 
 ## Research Interests
 

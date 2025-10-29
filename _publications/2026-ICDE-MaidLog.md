@@ -17,7 +17,6 @@ This paper addresses the challenge of log anomaly detection on resource-constrai
 
 - Designed MaidLog, an innovative LLM-based framework for zero-shot log anomaly detection
 - Achieved industry-leading accuracy without requiring labeled training data
-- Optimized for deployment on resource-constrained edge devices
 - Demonstrated superior performance across multiple real-world datasets
 - Provided a practical solution for automated log analysis in edge computing scenarios
 

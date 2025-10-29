@@ -12,9 +12,9 @@ redirect_from:
 
 ## 个人简介
 
-我是吴左晗，目前在[香港科技大学（广州）](https://www.hkust-gz.edu.cn/)[数据科学与分析学域](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/)攻读博士学位，有幸师从[陈雷教授](https://www.hkust-gz.edu.cn/people/lei-chen/)（IEEE Fellow, ACM Fellow）和张永琦教授，在[大数据研究所](https://www.hkust-gz.edu.cn/research/)开展研究工作。
+我是吴左晗，目前在[香港科技大学（广州）](https://www.hkust-gz.edu.cn/)[数据科学与分析学域](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/data-science-and-analytics/)攻读博士学位，有幸师从[陈雷教授](https://www.hkust-gz.edu.cn/people/lei-chen/)（IEEE Fellow, ACM Fellow）和[张永琦教授](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/ZHANG-Yongqi/yongqizhang)，在[大数据研究所](https://www.hkust-gz.edu.cn/research/)开展研究工作。
 
-2024年，我以优异成绩（GPA: 3.9/4.0，排名: 7/71，前10%）获得中山大学人工智能学院工学学士学位，本科毕业论文获评校级优秀论文（指导老师：郑立彬教授）。
+2024年，我以优异成绩（GPA: 3.9/4.0，排名: 7/71，前10%）获得中山大学人工智能学院工学学士学位，本科毕业论文获评校级优秀论文（指导老师：[郑立彬教授](https://libinzheng.github.io/)）。
 
 ## 研究兴趣
 

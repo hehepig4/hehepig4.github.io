@@ -27,6 +27,9 @@ redirect_from:
 
 ## 最新动态
 
+- **[2026年1月]** 我们的论文 "DA-RAG: Dynamic Attributed Community Search for Retrieval-Augmented Generation" 被 **WWW 2026** 接收！
+- **[2025年12月]** 我们的论文 "VPLight: A Reinforcement Learning Approach for Traffic Signal Control with Pedestrian Dynamics" 在 **IEEE TKDE** 发表！
+- **[2025年11月]** 新预印本："Probing the 'Psyche' of Large Reasoning Models" 已在 [arXiv](https://arxiv.org/abs/2512.00729) 发布！
 - **[2025年10月]** 我们关于零样本日志异常检测的论文被 **ICDE 2026** 接收！
 - **[2025年6月]** 我们关于基于强化学习的定价策略的论文在 **IEEE TKDE** 发表！
 - **[2024年9月]** 开启在港科大（广州）的博士研究之旅。

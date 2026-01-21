@@ -27,6 +27,9 @@ My research focuses on developing intelligent systems that automate complex and 
 
 ## Recent News
 
+- **[Jan 2026]** Our paper "DA-RAG: Dynamic Attributed Community Search for Retrieval-Augmented Generation" has been accepted by **WWW 2026**!
+- **[Dec 2025]** Our paper "VPLight: A Reinforcement Learning Approach for Traffic Signal Control with Pedestrian Dynamics" has been published in **IEEE TKDE**!
+- **[Nov 2025]** New preprint: "Probing the 'Psyche' of Large Reasoning Models" is now available on [arXiv](https://arxiv.org/abs/2512.00729)!
 - **[Oct 2025]** Our paper on zero-shot log anomaly detection has been accepted by **ICDE 2026**!
 - **[Jun 2025]** Our paper on reinforcement learning-based pricing strategy has been published in **IEEE TKDE**!
 - **[Sep 2024]** Started my PhD journey at HKUST(GZ).

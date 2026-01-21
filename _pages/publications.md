@@ -28,7 +28,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 * **Efficient Zero-shot and Label-free Log Anomaly Detection for Resource-constrained Systems**  
   ***Zuohan Wu***, Jiachuan Wang, Libin Zheng, Yongqi Zhang, Shuangyin Li, Lei Chen  
-  *40th IEEE International Conference on Data Engineering (**ICDE 2026**)*, CCF-A  
+  *42nd IEEE International Conference on Data Engineering (**ICDE 2026**)*, CCF-A  
   **Status**: Accepted
 
 ### 2025

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2026-ICDE-MaidLog
 excerpt: 'This paper presents MaidLog, an LLM-based framework achieving industry-leading zero-shot accuracy for log anomaly detection while efficiently running on resource-constrained edge devices.'
 date: 2026-04-01
-venue: '40th IEEE International Conference on Data Engineering (ICDE 2026)'
+venue: '42nd IEEE International Conference on Data Engineering (ICDE 2026)'
 paperurl: ''
 citation: 'Zuohan Wu, Jiachuan Wang, Libin Zheng, Yongqi Zhang, Shuangyin Li, Lei Chen. &quot;Efficient Zero-shot and Label-free Log Anomaly Detection for Resource-constrained Systems.&quot; <i>ICDE 2026</i>.'
 ---
@@ -22,7 +22,7 @@ This paper addresses the challenge of log anomaly detection on resource-constrai
 
 ## Publication Details
 
-- **Conference**: 40th IEEE International Conference on Data Engineering (ICDE 2026)
+- **Conference**: 42nd IEEE International Conference on Data Engineering (ICDE 2026)
 - **Ranking**: CCF-A, Core A*
 - **Year**: 2026
 - **Status**: Accepted
@@ -47,7 +47,7 @@ This work represents a significant advancement in applying large language models
                   Shuangyin Li and
                   Lei Chen},
   title        = {Efficient Zero-shot and Label-free Log Anomaly Detection for Resource-constrained Systems},
-  booktitle    = {40th {IEEE} International Conference on Data Engineering, {ICDE} 2026},
+  booktitle    = {42nd {IEEE} International Conference on Data Engineering, {ICDE} 2026},
   year         = {2026},
   note         = {To appear}
 }

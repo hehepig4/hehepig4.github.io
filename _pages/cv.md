@@ -32,7 +32,7 @@ Publications
 
 * **Efficient Zero-shot and Label-free Log Anomaly Detection for Resource-constrained Systems**  
   ***Zuohan Wu***, Jiachuan Wang, Libin Zheng, Yongqi Zhang, Shuangyin Li, Lei Chen  
-  *40th IEEE International Conference on Data Engineering (**ICDE 2026**)*, CCF-A, **Accepted**
+  *42nd IEEE International Conference on Data Engineering (**ICDE 2026**)*, CCF-A, **Accepted**
 
 * **Opponent-aware Order Pricing towards Hub-oriented Mobility Services**  
   ***Zuohan Wu***, Libin Zheng, Chen Jason Zhang, Huaijie Zhu, Jian Yin, Di Jiang  
@@ -79,12 +79,6 @@ Awards & Honors
   * Ranked top 0.65% among approximately 49,000 participating teams nationwide
 * **National Bronze Prize**, China Undergraduate Algorithm Design and Programming Challenge, 2020
 * **Outstanding Student Scholarship**, Sun Yat-sen University, 2020 & 2021 & 2022 (3 times)
-
-Skills
-======
-* **Research Areas**: 
-  * Large Language Models (LLMs)
-  * Data Mining
 
 Academic Service
 ======

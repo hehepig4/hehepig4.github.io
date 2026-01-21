@@ -9,7 +9,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 {% include base_path %}
 
-## Conference Papers
+## Selected Publications
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
@@ -27,7 +27,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
   **Status**: Accepted
 
 * **Efficient Zero-shot and Label-free Log Anomaly Detection for Resource-constrained Systems**  
-  ***Zuohan Wu***, Chen Jason Zhang, Han Yin, Rui Meng, Libin Zheng, Huaijie Zhu, Wei Liu  
+  ***Zuohan Wu***, Jiachuan Wang, Libin Zheng, Yongqi Zhang, Shuangyin Li, Lei Chen  
   *40th IEEE International Conference on Data Engineering (**ICDE 2026**)*, CCF-A  
   **Status**: Accepted
 

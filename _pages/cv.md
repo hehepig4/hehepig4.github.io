@@ -26,31 +26,43 @@ Publications
 ======
 ### Conference Papers
 
+* **DA-RAG: Dynamic Attributed Community Search for Retrieval-Augmented Generation**  
+  Xingyuan Zeng, ***Zuohan Wu***, Yue Wang, Chen Zhang, Quanming Yao, Libin Zheng, Jian Yin  
+  *The Web Conference 2026 (**WWW 2026**)*, CCF-A, **Accepted**
+
 * **Efficient Zero-shot and Label-free Log Anomaly Detection for Resource-constrained Systems**  
-  ***Zuohan Wu***, Chen Jason Zhang, Han Yin, Rui Meng, Libin Zheng, Huaijie Zhu, Wei Liu  
-  *40th IEEE International Conference on Data Engineering (**ICDE 2026**)*, CCF-A, **Accepted**  
-  Designed 'MaidLog', an LLM-based framework achieving industry-leading zero-shot accuracy for log anomaly detection while efficiently running on resource-constrained edge devices.
+  ***Zuohan Wu***, Jiachuan Wang, Libin Zheng, Yongqi Zhang, Shuangyin Li, Lei Chen  
+  *40th IEEE International Conference on Data Engineering (**ICDE 2026**)*, CCF-A, **Accepted**
 
 * **Opponent-aware Order Pricing towards Hub-oriented Mobility Services**  
   ***Zuohan Wu***, Libin Zheng, Chen Jason Zhang, Huaijie Zhu, Jian Yin, Di Jiang  
   *39th IEEE International Conference on Data Engineering (**ICDE 2023**)*, CCF-A  
-  [[DOI]](https://doi.org/10.1109/ICDE55515.2023.00146) [[DBLP]](https://dblp.org/rec/conf/icde/WuZZZ0J23.html)  
-  Proposed a novel opponent-aware pricing framework for emerging hub-oriented mobility services, significantly improving platform revenue and operational efficiency.
+  [[DOI]](https://doi.org/10.1109/ICDE55515.2023.00146) [[DBLP]](https://dblp.org/rec/conf/icde/WuZZZ0J23.html)
 
 ### Journal Papers
+
+* **VPLight: A Reinforcement Learning Approach for Traffic Signal Control with Pedestrian Dynamics**  
+  Xinyu Zhang, ***Zuohan Wu***, Chen Jason Zhang, Libin Zheng, Peng Cheng, Jian Yin, Cyrus Shahabi  
+  *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2025, CCF-A  
+  [[DOI]](https://doi.org/10.1109/TKDE.2025.3641213)
 
 * **DRLPG: Reinforced Opponent-Aware Order Pricing for Hub Mobility Services**  
   ***Zuohan Wu***, Chen Jason Zhang, Han Yin, Rui Meng, Libin Zheng, Huaijie Zhu, Wei Liu  
   *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, vol. 37, no. 6, pp. 3298-3311, 2025, CCF-A  
-  [[DOI]](https://doi.org/10.1109/TKDE.2025.3551147) [[DBLP]](https://dblp.org/rec/journals/tkde/WuZYMZZL25.html)  
-  Developed a deep reinforcement learning model with a "multi-policy fusion mechanism" that enables more adaptive and profitable pricing strategies in dynamic competitive environments.
+  [[DOI]](https://doi.org/10.1109/TKDE.2025.3551147) [[DBLP]](https://dblp.org/rec/journals/tkde/WuZYMZZL25.html)
+
+### Preprints
+
+* **Probing the "Psyche" of Large Reasoning Models: Understanding Through a Human Lens**  
+  Yuxiang Chen, ***Zuohan Wu***, Ziwei Wang, Xiangning Yu, Xujia Li, Linyi Yang, Mengyue Yang, Jun Wang, Lei Chen  
+  *arXiv preprint arXiv:2512.00729*, 2025  
+  [[arXiv]](https://arxiv.org/abs/2512.00729)
 
 ### Patents
 
 * **A Chinese Essay Review Method and Framework Based on Collocation Rhetoric Grammar Correction**  
   Guosheng Liang, Kaixuan Jiang, ***Zuohan Wu***, Dongling Li, Guangya Liu, Jianxing Yu, Jian Yin  
-  *Chinese Patent CN115952789A*, Published 2023  
-  Co-invented a patented method for Chinese Grammar Error Correction (CGEC), providing innovative solutions for nuanced rhetoric and collocation error patterns.
+  *Chinese Patent CN115952789A*, Published 2023
 
 Research Experience
 ======
@@ -60,12 +72,6 @@ Research Experience
 * Led the algorithmic development of Optical Chemical Structure Recognition (OCSR), a challenging computer vision task
 * Innovatively proposed a triple-alignment approach connecting image features, graph representations, and structured language (SMILES), forming the core technical solution of the project
 * Developed and implemented end-to-end pipeline for molecular structure recognition from images
-
-**Undergraduate Research**, Sun Yat-sen University  
-*Project: Chinese Grammar Error Correction System* | *2021 - 2022*
-* Principal Investigator of university innovation project on CGEC (Chinese Grammar Error Correction)
-* Designed and implemented a novel framework focusing on collocation rhetoric grammar correction
-* Resulted in a patent application and successful project completion
 
 Awards & Honors
 ======

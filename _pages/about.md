@@ -33,7 +33,7 @@ My research focuses on developing intelligent systems that automate complex and 
 - **[Oct 2025]** Our paper on zero-shot log anomaly detection has been accepted by **ICDE 2026**!
 - **[Jun 2025]** Our paper on reinforcement learning-based pricing strategy has been published in **IEEE TKDE**!
 - **[Sep 2024]** Started my PhD journey at HKUST(GZ).
-- **[Apr 2023]** Presented our work on hub-oriented mobility services at **ICDE 2023** in Anaheim, California.
+- **[Apr 2023]** Presented our work on hub-oriented mobility services at **ICDE 2023**.
 
 
 ## Contact

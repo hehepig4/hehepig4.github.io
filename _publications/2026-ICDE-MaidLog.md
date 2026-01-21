@@ -6,7 +6,7 @@ excerpt: 'This paper presents MaidLog, an LLM-based framework achieving industry
 date: 2026-04-01
 venue: '40th IEEE International Conference on Data Engineering (ICDE 2026)'
 paperurl: ''
-citation: 'Zuohan Wu, Chen Jason Zhang, Han Yin, Rui Meng, Libin Zheng, Huaijie Zhu, Wei Liu. &quot;Efficient Zero-shot and Label-free Log Anomaly Detection for Resource-constrained Systems.&quot; <i>ICDE 2026</i>.'
+citation: 'Zuohan Wu, Jiachuan Wang, Libin Zheng, Yongqi Zhang, Shuangyin Li, Lei Chen. &quot;Efficient Zero-shot and Label-free Log Anomaly Detection for Resource-constrained Systems.&quot; <i>ICDE 2026</i>.'
 ---
 
 ## Abstract
@@ -29,7 +29,7 @@ This paper addresses the challenge of log anomaly detection on resource-constrai
 
 ## Authors
 
-**Zuohan Wu**, Chen Jason Zhang, Han Yin, Rui Meng, Libin Zheng, Huaijie Zhu, Wei Liu
+**Zuohan Wu**, Jiachuan Wang, Libin Zheng, Yongqi Zhang, Shuangyin Li, Lei Chen
 
 ## Significance
 
@@ -41,12 +41,11 @@ This work represents a significant advancement in applying large language models
 ```bibtex
 @inproceedings{wu2026maidlog,
   author       = {Zuohan Wu and
-                  Chen Jason Zhang and
-                  Han Yin and
-                  Rui Meng and
+                  Jiachuan Wang and
                   Libin Zheng and
-                  Huaijie Zhu and
-                  Wei Liu},
+                  Yongqi Zhang and
+                  Shuangyin Li and
+                  Lei Chen},
   title        = {Efficient Zero-shot and Label-free Log Anomaly Detection for Resource-constrained Systems},
   booktitle    = {40th {IEEE} International Conference on Data Engineering, {ICDE} 2026},
   year         = {2026},

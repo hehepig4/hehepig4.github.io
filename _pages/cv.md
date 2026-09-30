@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **Ph.D. in Data Science and Analytics**, The Hong Kong University of Science and Technology (Guangzhou), 2024 - Present
+* **PhD candidate in Data Science and Analytics**, The Hong Kong University of Science and Technology (Guangzhou), 2024 - Present
   * Information Hub, Thrust of Data Science and Analytics
   * Advisor: [Prof. Lei Chen](https://www.hkust-gz.edu.cn/people/lei-chen/) (IEEE Fellow, ACM Fellow)
   * Co-advisor: Prof. Yongqi Zhang
@@ -81,6 +81,11 @@ Research Experience
 * Innovatively proposed a triple-alignment approach connecting image features, graph representations, and structured language (SMILES), forming the core technical solution of the project
 * Developed and implemented end-to-end pipeline for molecular structure recognition from images
 
+Teaching
+======
+
+{% include teaching-cv.html %}
+
 Awards & Honors
 ======
 * **National First Prize**, China Undergraduate Mathematical Contest in Modeling (CUMCM), Nov. 2021
@@ -99,10 +104,4 @@ Academic Service
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
   {% endfor %}</ul> -->

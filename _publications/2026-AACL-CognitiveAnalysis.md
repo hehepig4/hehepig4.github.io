@@ -6,14 +6,14 @@ redirect_from:
   - /publication/2025-arXiv-ProbingPsyche
 excerpt: 'A fine-grained taxonomy and the CAPO annotation framework reveal how large reasoning models organise information, reflect, and self-correct, with validation across model generations and reasoning domains.'
 date: 2026-09-07
-venue: 'AACL-IJCNLP 2026'
+venue: 'Findings of AACL-IJCNLP 2026'
 publication_status: accepted
 paperurl: '/files/2026-AACL-CognitiveAnalysis.pdf'
 pdfurl: '/files/2026-AACL-CognitiveAnalysis.pdf'
 arxivurl: 'https://arxiv.org/abs/2512.00729'
 arxiv_label: 'Earlier arXiv version'
 codeurl: 'https://github.com/hehepig4/psyche'
-citation: 'Yuxiang Chen<sup>*</sup>, Zuohan Wu<sup>*</sup>, Ziwei Wang, Xiangning Yu, Xujia Li, Linyi Yang, Mengyue Yang, Jun Wang, Lei Chen. &quot;Superficial Reflection or Genuine Thought? A Fine-Grained Cognitive Analysis of Large Reasoning Models.&quot; <i>AACL-IJCNLP 2026</i>, accepted. <sup>*</sup>Equal contribution.'
+citation: 'Yuxiang Chen<sup>*</sup>, Zuohan Wu<sup>*</sup>, Ziwei Wang, Xiangning Yu, Xujia Li, Linyi Yang, Mengyue Yang, Jun Wang, Lei Chen. &quot;Superficial Reflection or Genuine Thought? A Fine-Grained Cognitive Analysis of Large Reasoning Models.&quot; <i>Findings of AACL-IJCNLP 2026</i>, accepted. <sup>*</sup>Equal contribution.'
 ---
 
 ## Abstract
@@ -29,7 +29,7 @@ Motivated by the observed human-like behaviours in Large Reasoning Models (LRMs)
 
 ## Publication Details
 
-- **Conference**: AACL-IJCNLP 2026
+- **Venue**: Findings of AACL-IJCNLP 2026
 - **Year**: 2026
 - **Status**: Accepted; to appear
 - **Paper**: [Camera-ready PDF](/files/2026-AACL-CognitiveAnalysis.pdf)
@@ -57,7 +57,7 @@ Yuxiang Chen<sup>*</sup>, **Zuohan Wu**<sup>*</sup>, Ziwei Wang, Xiangning Yu, X
                   Jun Wang and
                   Lei Chen},
   title        = {Superficial Reflection or Genuine Thought? A Fine-Grained Cognitive Analysis of Large Reasoning Models},
-  booktitle    = {AACL-IJCNLP 2026},
+  booktitle    = {Findings of AACL-IJCNLP 2026},
   year         = {2026},
   note         = {Accepted, to appear},
   url          = {https://hehepig4.github.io/files/2026-AACL-CognitiveAnalysis.pdf}

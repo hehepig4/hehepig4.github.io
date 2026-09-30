@@ -28,7 +28,7 @@ Publications
 
 * **Superficial Reflection or Genuine Thought? A Fine-Grained Cognitive Analysis of Large Reasoning Models**  
   Yuxiang Chen<sup>*</sup>, ***Zuohan Wu***<sup>*</sup>, Ziwei Wang, Xiangning Yu, Xujia Li, Linyi Yang, Mengyue Yang, Jun Wang, Lei Chen  
-  *AACL-IJCNLP 2026*, **Accepted; to appear**  
+  *Findings of AACL-IJCNLP 2026*, **Accepted; to appear**  
   <sup>*</sup>Equal contribution.  
   [[PDF]](/files/2026-AACL-CognitiveAnalysis.pdf) [[Code]](https://github.com/hehepig4/psyche) [[Earlier arXiv version]](https://arxiv.org/abs/2512.00729)
 

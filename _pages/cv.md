@@ -49,10 +49,10 @@ Publications
 
 ### Journal Papers
 
-* **VPLight: A Reinforcement Learning Approach for Traffic Signal Control with Pedestrian Dynamics**  
+* **VPLight: A Reinforcement Learning Approach for Traffic Signal Control With Pedestrian Dynamics**  
   Xinyu Zhang, ***Zuohan Wu***, Chen Jason Zhang, Libin Zheng, Peng Cheng, Jian Yin, Cyrus Shahabi  
-  *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2025, CCF-A  
-  [[DOI]](https://doi.org/10.1109/TKDE.2025.3641213)
+  *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, vol. 38, no. 3, pp. 2079-2093, 2026, CCF-A  
+  [[DOI]](https://doi.org/10.1109/TKDE.2025.3641213) [[DBLP]](https://dblp.org/rec/journals/tkde/ZhangWZZCYS26.html)
 
 * **DRLPG: Reinforced Opponent-Aware Order Pricing for Hub Mobility Services**  
   ***Zuohan Wu***, Chen Jason Zhang, Han Yin, Rui Meng, Libin Zheng, Huaijie Zhu, Wei Liu  

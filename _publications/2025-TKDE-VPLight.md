@@ -1,12 +1,14 @@
 ---
-title: "VPLight: A Reinforcement Learning Approach for Traffic Signal Control with Pedestrian Dynamics"
+title: "VPLight: A Reinforcement Learning Approach for Traffic Signal Control With Pedestrian Dynamics"
 collection: publications
 permalink: /publication/2025-TKDE-VPLight
 excerpt: 'This paper proposes VPLight, a reinforcement learning approach that considers pedestrian dynamics for more effective traffic signal control at intersections.'
-date: 2025-01-01
+date: 2026-03-01
 venue: 'IEEE Transactions on Knowledge and Data Engineering (TKDE)'
+publication_status: published
 paperurl: 'https://doi.org/10.1109/TKDE.2025.3641213'
-citation: 'Xinyu Zhang, Zuohan Wu, Chen Jason Zhang, Libin Zheng, Peng Cheng, Jian Yin, Cyrus Shahabi. &quot;VPLight: A Reinforcement Learning Approach for Traffic Signal Control with Pedestrian Dynamics.&quot; <i>IEEE Transactions on Knowledge and Data Engineering</i>, 2025.'
+dblpurl: 'https://dblp.org/rec/journals/tkde/ZhangWZZCYS26.html'
+citation: 'Xinyu Zhang, Zuohan Wu, Chen Jason Zhang, Libin Zheng, Peng Cheng, Jian Yin, Cyrus Shahabi. &quot;VPLight: A Reinforcement Learning Approach for Traffic Signal Control With Pedestrian Dynamics.&quot; <i>IEEE Transactions on Knowledge and Data Engineering</i>, vol. 38, no. 3, pp. 2079-2093, 2026.'
 ---
 
 ## Abstract
@@ -24,8 +26,11 @@ This paper proposes VPLight, a novel reinforcement learning approach for traffic
 
 - **Journal**: IEEE Transactions on Knowledge and Data Engineering (TKDE)
 - **Ranking**: CCF-A, JCR Q1
-- **Year**: 2025
+- **Year**: 2026
+- **Volume / Issue**: 38(3)
+- **Pages**: 2079-2093
 - **DOI**: [10.1109/TKDE.2025.3641213](https://doi.org/10.1109/TKDE.2025.3641213)
+- **DBLP**: [Publication record](https://dblp.org/rec/journals/tkde/ZhangWZZCYS26.html)
 
 ## Authors
 
@@ -35,7 +40,7 @@ Xinyu Zhang, **Zuohan Wu**, Chen Jason Zhang, Libin Zheng, Peng Cheng, Jian Yin,
 
 {% raw %}
 ```bibtex
-@article{zhang2025vplight,
+@article{zhang2026vplight,
   author       = {Xinyu Zhang and
                   Zuohan Wu and
                   Chen Jason Zhang and
@@ -43,9 +48,12 @@ Xinyu Zhang, **Zuohan Wu**, Chen Jason Zhang, Libin Zheng, Peng Cheng, Jian Yin,
                   Peng Cheng and
                   Jian Yin and
                   Cyrus Shahabi},
-  title        = {VPLight: A Reinforcement Learning Approach for Traffic Signal Control with Pedestrian Dynamics},
+  title        = {VPLight: A Reinforcement Learning Approach for Traffic Signal Control With Pedestrian Dynamics},
   journal      = {IEEE Transactions on Knowledge and Data Engineering},
-  year         = {2025},
+  volume       = {38},
+  number       = {3},
+  pages        = {2079--2093},
+  year         = {2026},
   doi          = {10.1109/TKDE.2025.3641213}
 }
 ```

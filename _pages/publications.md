@@ -42,12 +42,12 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
   *Proceedings of the ACM Web Conference 2026 (**WWW 2026**)*, pp. 2195-2206, CCF-A  
   [[DOI]](https://doi.org/10.1145/3774904.3792430) [[PDF]](https://arxiv.org/pdf/2602.08545) [[arXiv]](https://arxiv.org/abs/2602.08545) [[Code]](https://doi.org/10.5281/zenodo.18296495) [[DBLP]](https://dblp.org/rec/conf/www/ZengWWZYZY26.html)
 
-### 2025
-
-* **VPLight: A Reinforcement Learning Approach for Traffic Signal Control with Pedestrian Dynamics**  
+* **VPLight: A Reinforcement Learning Approach for Traffic Signal Control With Pedestrian Dynamics**  
   Xinyu Zhang, ***Zuohan Wu***, Chen Jason Zhang, Libin Zheng, Peng Cheng, Jian Yin, Cyrus Shahabi  
-  *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, CCF-A  
-  [[DOI]](https://doi.org/10.1109/TKDE.2025.3641213)
+  *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, vol. 38, no. 3, pp. 2079-2093, 2026, CCF-A  
+  [[DOI]](https://doi.org/10.1109/TKDE.2025.3641213) [[DBLP]](https://dblp.org/rec/journals/tkde/ZhangWZZCYS26.html)
+
+### 2025
 
 * **DRLPG: Reinforced Opponent-Aware Order Pricing for Hub Mobility Services**  
   ***Zuohan Wu***, Chen Jason Zhang, Han Yin, Rui Meng, Libin Zheng, Huaijie Zhu, Wei Liu  

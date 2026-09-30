@@ -22,9 +22,9 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 ### 2026
 
 * **Superficial Reflection or Genuine Thought? A Fine-Grained Cognitive Analysis of Large Reasoning Models**  
-  Yuxiang Chen<sup>*</sup>, ***Zuohan Wu***<sup>*</sup>, Ziwei Wang, Xiangning Yu, Xujia Li, Linyi Yang, Mengyue Yang, Jun Wang, Lei Chen  
+  Yuxiang Chen<sup>&#42;</sup>, ***Zuohan Wu***<sup>&#42;</sup>, Ziwei Wang, Xiangning Yu, Xujia Li, Linyi Yang, Mengyue Yang, Jun Wang, Lei Chen  
   *Findings of AACL-IJCNLP 2026*, **Accepted; to appear**  
-  <sup>*</sup>Equal contribution.  
+  <sup>&#42;</sup>Equal contribution.  
   [[PDF]](/files/2026-AACL-CognitiveAnalysis.pdf) [[Code]](https://github.com/hehepig4/psyche) [[Earlier arXiv version]](https://arxiv.org/abs/2512.00729)
 
 * **RuleMem: Active Rule Memory for Long-Term Conversational Agents**  

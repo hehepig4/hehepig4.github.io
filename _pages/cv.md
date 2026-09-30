@@ -27,9 +27,9 @@ Publications
 ### Conference Papers
 
 * **Superficial Reflection or Genuine Thought? A Fine-Grained Cognitive Analysis of Large Reasoning Models**  
-  Yuxiang Chen<sup>*</sup>, ***Zuohan Wu***<sup>*</sup>, Ziwei Wang, Xiangning Yu, Xujia Li, Linyi Yang, Mengyue Yang, Jun Wang, Lei Chen  
+  Yuxiang Chen<sup>&#42;</sup>, ***Zuohan Wu***<sup>&#42;</sup>, Ziwei Wang, Xiangning Yu, Xujia Li, Linyi Yang, Mengyue Yang, Jun Wang, Lei Chen  
   *Findings of AACL-IJCNLP 2026*, **Accepted; to appear**  
-  <sup>*</sup>Equal contribution.  
+  <sup>&#42;</sup>Equal contribution.  
   [[PDF]](/files/2026-AACL-CognitiveAnalysis.pdf) [[Code]](https://github.com/hehepig4/psyche) [[Earlier arXiv version]](https://arxiv.org/abs/2512.00729)
 
 * **Efficient Zero-Shot and Label-free Log Anomaly Detection for Resource-Constrained Systems**  
@@ -91,9 +91,7 @@ Awards & Honors
 Academic Service
 ======
 * **Conference Volunteer**: VLDB 2025
-* **Conference Attendance**: NDBC 2023, ICDE 2023
-* Conference Reviewer: (To be updated)
-* Journal Reviewer: (To be updated)
+* **Conference Attendance**: ICDE 2026, ICDE 2023, NDBC 2023
 
 *Last updated: September 2026*
 

@@ -13,7 +13,7 @@ pdfurl: '/files/2026-AACL-CognitiveAnalysis.pdf'
 arxivurl: 'https://arxiv.org/abs/2512.00729'
 arxiv_label: 'Earlier arXiv version'
 codeurl: 'https://github.com/hehepig4/psyche'
-citation: 'Yuxiang Chen<sup>*</sup>, Zuohan Wu<sup>*</sup>, Ziwei Wang, Xiangning Yu, Xujia Li, Linyi Yang, Mengyue Yang, Jun Wang, Lei Chen. &quot;Superficial Reflection or Genuine Thought? A Fine-Grained Cognitive Analysis of Large Reasoning Models.&quot; <i>Findings of AACL-IJCNLP 2026</i>, accepted. <sup>*</sup>Equal contribution.'
+citation: 'Yuxiang Chen<sup>&#42;</sup>, Zuohan Wu<sup>&#42;</sup>, Ziwei Wang, Xiangning Yu, Xujia Li, Linyi Yang, Mengyue Yang, Jun Wang, Lei Chen. &quot;Superficial Reflection or Genuine Thought? A Fine-Grained Cognitive Analysis of Large Reasoning Models.&quot; <i>Findings of AACL-IJCNLP 2026</i>, accepted. <sup>&#42;</sup>Equal contribution.'
 ---
 
 ## Abstract
@@ -38,9 +38,9 @@ Motivated by the observed human-like behaviours in Large Reasoning Models (LRMs)
 
 ## Authors
 
-Yuxiang Chen<sup>*</sup>, **Zuohan Wu**<sup>*</sup>, Ziwei Wang, Xiangning Yu, Xujia Li, Linyi Yang, Mengyue Yang, Jun Wang, Lei Chen
+Yuxiang Chen<sup>&#42;</sup>, **Zuohan Wu**<sup>&#42;</sup>, Ziwei Wang, Xiangning Yu, Xujia Li, Linyi Yang, Mengyue Yang, Jun Wang, Lei Chen
 
-<sup>*</sup>Equal contribution.
+<sup>&#42;</sup>Equal contribution.
 
 ## BibTeX
 

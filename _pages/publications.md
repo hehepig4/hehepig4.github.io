@@ -21,15 +21,26 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 ### 2026
 
+* **Superficial Reflection or Genuine Thought? A Fine-Grained Cognitive Analysis of Large Reasoning Models**  
+  Yuxiang Chen<sup>*</sup>, ***Zuohan Wu***<sup>*</sup>, Ziwei Wang, Xiangning Yu, Xujia Li, Linyi Yang, Mengyue Yang, Jun Wang, Lei Chen  
+  *AACL-IJCNLP 2026*, **Accepted; to appear**  
+  <sup>*</sup>Equal contribution.  
+  [[PDF]](/files/2026-AACL-CognitiveAnalysis.pdf) [[Code]](https://github.com/hehepig4/psyche) [[Earlier arXiv version]](https://arxiv.org/abs/2512.00729)
+
+* **RuleMem: Active Rule Memory for Long-Term Conversational Agents**  
+  Xingyuan Zeng, ***Zuohan Wu***, Yue Wang, Chen Zhang, Quanming Yao, Wei Liu, Jiuke Wang, Libin Zheng, Jian Yin  
+  *arXiv preprint arXiv:2609.03915*, 2026  
+  [[arXiv]](https://arxiv.org/abs/2609.03915) [[PDF]](https://arxiv.org/pdf/2609.03915)
+
+* **Efficient Zero-Shot and Label-free Log Anomaly Detection for Resource-Constrained Systems**  
+  ***Zuohan Wu***, Jiachuan Wang, Libin Zheng, Yongqi Zhang, Shuangyin Li, Lei Chen  
+  *2026 IEEE 42nd International Conference on Data Engineering (**ICDE 2026**)*, pp. 671-684, CCF-A  
+  [[DOI]](https://doi.org/10.1109/ICDE65706.2026.00056) [[PDF]](https://dominatorx.github.io/files/26ICDE-p.pdf) [[Code]](https://github.com/hehepig4/maidlog) [[DBLP]](https://dblp.org/rec/conf/icde/WuWZZLC26.html)
+
 * **DA-RAG: Dynamic Attributed Community Search for Retrieval-Augmented Generation**  
   Xingyuan Zeng, ***Zuohan Wu***, Yue Wang, Chen Zhang, Quanming Yao, Libin Zheng, Jian Yin  
-  *The Web Conference 2026 (**WWW 2026**)*, CCF-A  
-  **Status**: Accepted
-
-* **Efficient Zero-shot and Label-free Log Anomaly Detection for Resource-constrained Systems**  
-  ***Zuohan Wu***, Jiachuan Wang, Libin Zheng, Yongqi Zhang, Shuangyin Li, Lei Chen  
-  *42nd IEEE International Conference on Data Engineering (**ICDE 2026**)*, CCF-A  
-  **Status**: Accepted
+  *Proceedings of the ACM Web Conference 2026 (**WWW 2026**)*, pp. 2195-2206, CCF-A  
+  [[DOI]](https://doi.org/10.1145/3774904.3792430) [[PDF]](https://arxiv.org/pdf/2602.08545) [[arXiv]](https://arxiv.org/abs/2602.08545) [[Code]](https://doi.org/10.5281/zenodo.18296495) [[DBLP]](https://dblp.org/rec/conf/www/ZengWWZYZY26.html)
 
 ### 2025
 
@@ -42,11 +53,6 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
   ***Zuohan Wu***, Chen Jason Zhang, Han Yin, Rui Meng, Libin Zheng, Huaijie Zhu, Wei Liu  
   *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, vol. 37, no. 6, pp. 3298-3311, 2025, CCF-A  
   [[DOI]](https://doi.org/10.1109/TKDE.2025.3551147) [[DBLP]](https://dblp.org/rec/journals/tkde/WuZYMZZL25.html)
-
-* **Probing the "Psyche" of Large Reasoning Models: Understanding Through a Human Lens**  
-  Yuxiang Chen, ***Zuohan Wu***, Ziwei Wang, Xiangning Yu, Xujia Li, Linyi Yang, Mengyue Yang, Jun Wang, Lei Chen  
-  *arXiv preprint arXiv:2512.00729*, 2025  
-  [[arXiv]](https://arxiv.org/abs/2512.00729)
 
 ### 2023
 
@@ -75,4 +81,4 @@ My research spans several interconnected areas:
 
 ---
 
-*Last updated: Jan 2026*
+*Last updated: September 2026*

@@ -1,39 +1,47 @@
 ---
-title: "Efficient Zero-shot and Label-free Log Anomaly Detection for Resource-constrained Systems"
+title: "Efficient Zero-Shot and Label-free Log Anomaly Detection for Resource-Constrained Systems"
 collection: publications
 permalink: /publication/2026-ICDE-MaidLog
-excerpt: 'This paper presents MaidLog, an LLM-based framework achieving industry-leading zero-shot accuracy for log anomaly detection while efficiently running on resource-constrained edge devices.'
-date: 2026-04-01
-venue: '42nd IEEE International Conference on Data Engineering (ICDE 2026)'
-paperurl: ''
-citation: 'Zuohan Wu, Jiachuan Wang, Libin Zheng, Yongqi Zhang, Shuangyin Li, Lei Chen. &quot;Efficient Zero-shot and Label-free Log Anomaly Detection for Resource-constrained Systems.&quot; <i>ICDE 2026</i>.'
+excerpt: 'MaidLog uses LLM-assisted pseudo-labels to train a generalisable, lightweight log anomaly detector. Downstream detection requires neither manual labels nor LLM inference, making it suitable for resource-constrained systems.'
+date: 2026-05-01
+venue: '2026 IEEE 42nd International Conference on Data Engineering (ICDE)'
+publication_status: published
+paperurl: 'https://doi.org/10.1109/ICDE65706.2026.00056'
+pdfurl: 'https://dominatorx.github.io/files/26ICDE-p.pdf'
+doi: '10.1109/ICDE65706.2026.00056'
+codeurl: 'https://github.com/hehepig4/maidlog'
+dblpurl: 'https://dblp.org/rec/conf/icde/WuWZZLC26.html'
+citation: 'Zuohan Wu, Jiachuan Wang, Libin Zheng, Yongqi Zhang, Shuangyin Li, Lei Chen. &quot;Efficient Zero-Shot and Label-free Log Anomaly Detection for Resource-Constrained Systems.&quot; <i>2026 IEEE 42nd International Conference on Data Engineering (ICDE)</i>, pp. 671-684, 2026.'
 ---
 
-## Abstract
+## Overview
 
-This paper addresses the challenge of log anomaly detection on resource-constrained edge devices. We design **MaidLog**, a novel framework based on large language models that achieves industry-leading zero-shot accuracy while maintaining efficiency suitable for deployment on edge devices with limited computational resources.
+**MaidLog** separates LLM-assisted training from lightweight log anomaly detection. During training, LLMs generate and refine pseudo-labels for unlabeled source-system logs. These labels train a detector designed to generalise to unseen target systems without post-training. Downstream detection uses the trained detector alone, with no LLM calls.
+
+This design combines zero-shot transfer and label-free training with efficient inference for resource-constrained systems. Experiments on real-world logs evaluate its accuracy, cross-system generalisation, and computational efficiency against LLM-centric and non-LLM approaches.
 
 ## Key Contributions
 
-- Designed MaidLog, an innovative LLM-based framework for zero-shot log anomaly detection
-- Achieved industry-leading accuracy without requiring labeled training data
-- Demonstrated superior performance across multiple real-world datasets
-- Provided a practical solution for automated log analysis in edge computing scenarios
+- An LLM-assisted pseudo-label assignment workflow that removes the need for manually labeled training data.
+- A generalisable detector for zero-shot anomaly detection on unseen target systems.
+- Lightweight, LLM-free inference for resource-constrained deployments.
+- Evaluation on real-world datasets, including cross-system generalisation and efficiency comparisons.
 
 ## Publication Details
 
-- **Conference**: 42nd IEEE International Conference on Data Engineering (ICDE 2026)
+- **Conference**: 2026 IEEE 42nd International Conference on Data Engineering (ICDE)
 - **Ranking**: CCF-A, Core A*
 - **Year**: 2026
-- **Status**: Accepted
+- **Pages**: 671-684
+- **Publisher**: IEEE
+- **DOI**: [10.1109/ICDE65706.2026.00056](https://doi.org/10.1109/ICDE65706.2026.00056)
+- **Paper**: [PDF](https://dominatorx.github.io/files/26ICDE-p.pdf)
+- **Code**: [GitHub](https://github.com/hehepig4/maidlog)
+- **DBLP**: [Publication record](https://dblp.org/rec/conf/icde/WuWZZLC26.html)
 
 ## Authors
 
 **Zuohan Wu**, Jiachuan Wang, Libin Zheng, Yongqi Zhang, Shuangyin Li, Lei Chen
-
-## Significance
-
-This work represents a significant advancement in applying large language models to practical data engineering tasks, particularly in resource-constrained environments. The zero-shot capability makes it highly applicable to diverse systems without requiring extensive labeled data collection and training.
 
 ## BibTeX
 
@@ -46,14 +54,13 @@ This work represents a significant advancement in applying large language models
                   Yongqi Zhang and
                   Shuangyin Li and
                   Lei Chen},
-  title        = {Efficient Zero-shot and Label-free Log Anomaly Detection for Resource-constrained Systems},
-  booktitle    = {42nd {IEEE} International Conference on Data Engineering, {ICDE} 2026},
+  title        = {Efficient Zero-Shot and Label-free Log Anomaly Detection for Resource-Constrained Systems},
+  booktitle    = {2026 IEEE 42nd International Conference on Data Engineering (ICDE)},
+  pages        = {671--684},
+  publisher    = {IEEE},
   year         = {2026},
-  note         = {To appear}
+  doi          = {10.1109/ICDE65706.2026.00056},
+  url          = {https://doi.org/10.1109/ICDE65706.2026.00056}
 }
 ```
 {% endraw %}
-
----
-
-*More details will be added upon publication.*

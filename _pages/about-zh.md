@@ -27,10 +27,12 @@ redirect_from:
 
 ## 最新动态
 
-- **[2026年1月]** 我们的论文 "DA-RAG: Dynamic Attributed Community Search for Retrieval-Augmented Generation" 被 **WWW 2026** 接收！
+- **[2026年9月]** 我们的论文 "[Superficial Reflection or Genuine Thought? A Fine-Grained Cognitive Analysis of Large Reasoning Models](/publication/2026-AACL-CognitiveAnalysis)" 被 **AACL-IJCNLP 2026** 接收！[论文 PDF](/files/2026-AACL-CognitiveAnalysis.pdf) · [代码](https://github.com/hehepig4/psyche)
+- **[2026年9月]** 新预印本："[RuleMem: Active Rule Memory for Long-Term Conversational Agents](/publication/2026-arXiv-RuleMem)" 已在 [arXiv](https://arxiv.org/abs/2609.03915) 发布！
+- **[2026年1月]** 我们的论文 "[DA-RAG: Dynamic Attributed Community Search for Retrieval-Augmented Generation](/publication/2026-WWW-DARAG)" 被 **WWW 2026** 接收！[DOI](https://doi.org/10.1145/3774904.3792430)
 - **[2025年12月]** 我们的论文 "VPLight: A Reinforcement Learning Approach for Traffic Signal Control with Pedestrian Dynamics" 在 **IEEE TKDE** 发表！
 - **[2025年11月]** 新预印本："Probing the 'Psyche' of Large Reasoning Models" 已在 [arXiv](https://arxiv.org/abs/2512.00729) 发布！
-- **[2025年10月]** 我们关于零样本日志异常检测的论文被 **ICDE 2026** 接收！
+- **[2025年10月]** 我们关于零样本日志异常检测的论文 [MaidLog](/publication/2026-ICDE-MaidLog) 被 **ICDE 2026** 接收！[DOI](https://doi.org/10.1109/ICDE65706.2026.00056)
 - **[2025年6月]** 我们关于基于强化学习的定价策略的论文在 **IEEE TKDE** 发表！
 - **[2024年9月]** 开启在港科大（广州）的博士研究之旅。
 - **[2023年4月]** 在 **ICDE 2023** 上展示了我们关于枢纽型出行服务的工作。

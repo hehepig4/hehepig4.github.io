@@ -3,10 +3,16 @@ title: "DA-RAG: Dynamic Attributed Community Search for Retrieval-Augmented Gene
 collection: publications
 permalink: /publication/2026-WWW-DARAG
 excerpt: 'This paper proposes DA-RAG, which leverages attributed community search to dynamically extract relevant subgraphs for retrieval-augmented generation, outperforming existing RAG methods by up to 40%.'
-date: 2026-01-01
-venue: 'The Web Conference 2026 (WWW 2026)'
-paperurl: ''
-citation: 'Xingyuan Zeng, Zuohan Wu, Yue Wang, Chen Zhang, Quanming Yao, Libin Zheng, Jian Yin. &quot;DA-RAG: Dynamic Attributed Community Search for Retrieval-Augmented Generation.&quot; <i>WWW 2026</i>.'
+date: 2026-04-12
+venue: 'Proceedings of the ACM Web Conference 2026 (WWW 2026)'
+publication_status: published
+paperurl: 'https://doi.org/10.1145/3774904.3792430'
+pdfurl: 'https://arxiv.org/pdf/2602.08545'
+doi: '10.1145/3774904.3792430'
+arxivurl: 'https://arxiv.org/abs/2602.08545'
+codeurl: 'https://doi.org/10.5281/zenodo.18296495'
+dblpurl: 'https://dblp.org/rec/conf/www/ZengWWZYZY26.html'
+citation: 'Xingyuan Zeng, Zuohan Wu, Yue Wang, Chen Zhang, Quanming Yao, Libin Zheng, Jian Yin. &quot;DA-RAG: Dynamic Attributed Community Search for Retrieval-Augmented Generation.&quot; <i>Proceedings of the ACM Web Conference 2026</i>, pp. 2195-2206, 2026.'
 ---
 
 ## Abstract
@@ -20,10 +26,15 @@ We evaluate DA-RAG on multiple datasets, demonstrating that it outperforms exist
 
 ## Publication Details
 
-- **Conference**: The Web Conference 2026 (WWW 2026)
+- **Conference**: Proceedings of the ACM Web Conference 2026 (WWW 2026)
 - **Ranking**: CCF-A, Core A*
 - **Year**: 2026
-- **Status**: Accepted (January 2026)
+- **Pages**: 2195-2206
+- **Publisher**: ACM
+- **DOI**: [10.1145/3774904.3792430](https://doi.org/10.1145/3774904.3792430)
+- **Paper**: [PDF](https://arxiv.org/pdf/2602.08545) · [arXiv:2602.08545](https://arxiv.org/abs/2602.08545)
+- **Code**: [Archived release on Zenodo](https://doi.org/10.5281/zenodo.18296495)
+- **DBLP**: [Publication record](https://dblp.org/rec/conf/www/ZengWWZYZY26.html)
 
 ## Authors
 
@@ -42,8 +53,12 @@ Xingyuan Zeng, **Zuohan Wu**, Yue Wang, Chen Zhang, Quanming Yao, Libin Zheng, J
                   Libin Zheng and
                   Jian Yin},
   title        = {DA-RAG: Dynamic Attributed Community Search for Retrieval-Augmented Generation},
-  booktitle    = {The Web Conference 2026, {WWW} 2026},
-  year         = {2026}
+  booktitle    = {Proceedings of the ACM Web Conference 2026},
+  pages        = {2195--2206},
+  publisher    = {ACM},
+  year         = {2026},
+  doi          = {10.1145/3774904.3792430},
+  url          = {https://doi.org/10.1145/3774904.3792430}
 }
 ```
 {% endraw %}

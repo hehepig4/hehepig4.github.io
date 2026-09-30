@@ -1,0 +1,9 @@
+{% assign publication = include.publication %}
+{% assign publication_year = publication.date | date: "%Y" %}
+{% if publication.publication_status == 'accepted' %}
+  <p>Accepted at <i>{{ publication.venue }}</i>{% unless publication.venue contains publication_year %}, {{ publication_year }}{% endunless %} (to appear).</p>
+{% elsif publication.publication_status == 'preprint' %}
+  <p>Preprint, {{ publication_year }}.</p>
+{% else %}
+  <p>Published in <i>{{ publication.venue }}</i>{% unless publication.venue contains publication_year %}, {{ publication_year }}{% endunless %}.</p>
+{% endif %}

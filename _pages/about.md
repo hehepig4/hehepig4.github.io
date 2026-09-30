@@ -27,10 +27,12 @@ My research focuses on developing intelligent systems that automate complex and 
 
 ## Recent News
 
-- **[Jan 2026]** Our paper "DA-RAG: Dynamic Attributed Community Search for Retrieval-Augmented Generation" has been accepted by **WWW 2026**!
+- **[Sep 2026]** Our paper "[Superficial Reflection or Genuine Thought? A Fine-Grained Cognitive Analysis of Large Reasoning Models](/publication/2026-AACL-CognitiveAnalysis)" has been accepted by **AACL-IJCNLP 2026**! [PDF](/files/2026-AACL-CognitiveAnalysis.pdf) · [Code](https://github.com/hehepig4/psyche)
+- **[Sep 2026]** New preprint: "[RuleMem: Active Rule Memory for Long-Term Conversational Agents](/publication/2026-arXiv-RuleMem)" is now available on [arXiv](https://arxiv.org/abs/2609.03915)!
+- **[Jan 2026]** Our paper "[DA-RAG: Dynamic Attributed Community Search for Retrieval-Augmented Generation](/publication/2026-WWW-DARAG)" has been accepted by **WWW 2026**! [DOI](https://doi.org/10.1145/3774904.3792430)
 - **[Dec 2025]** Our paper "VPLight: A Reinforcement Learning Approach for Traffic Signal Control with Pedestrian Dynamics" has been published in **IEEE TKDE**!
 - **[Nov 2025]** New preprint: "Probing the 'Psyche' of Large Reasoning Models" is now available on [arXiv](https://arxiv.org/abs/2512.00729)!
-- **[Oct 2025]** Our paper on zero-shot log anomaly detection has been accepted by **ICDE 2026**!
+- **[Oct 2025]** Our paper on zero-shot log anomaly detection, [MaidLog](/publication/2026-ICDE-MaidLog), has been accepted by **ICDE 2026**! [DOI](https://doi.org/10.1109/ICDE65706.2026.00056)
 - **[Jun 2025]** Our paper on reinforcement learning-based pricing strategy has been published in **IEEE TKDE**!
 - **[Sep 2024]** Started my PhD journey at HKUST(GZ).
 - **[Apr 2023]** Presented our work on hub-oriented mobility services at **ICDE 2023**.
@@ -46,5 +48,3 @@ My research focuses on developing intelligent systems that automate complex and 
 ---
 
 *"Automating complexity, democratizing insights."*
-
-

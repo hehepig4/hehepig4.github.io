@@ -19,6 +19,13 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 ## Full Publication List
 
+### Forthcoming
+
+* **[Saturn: Agentic Natural Language-Driven Tabular Data Discovery](/publication/2027-VLDB-Saturn)**  
+  ***Zuohan Wu***, Jiachuan Wang, Jiake Ge, Xujia Li, Libin Zheng, Yongqi Zhang, Shuangyin Li, Lei Chen  
+  *VLDB 2027*, **Accepted; to appear**  
+  [[Code]](https://github.com/hehepig4/saturn)
+
 ### 2026
 
 * **Superficial Reflection or Genuine Thought? A Fine-Grained Cognitive Analysis of Large Reasoning Models**  
@@ -81,4 +88,4 @@ My research spans several interconnected areas:
 
 ---
 
-*Last updated: September 2026*
+*Last updated: November 2026*

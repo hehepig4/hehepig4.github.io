@@ -26,6 +26,11 @@ Publications
 ======
 ### Conference Papers
 
+* **[Saturn: Agentic Natural Language-Driven Tabular Data Discovery](/publication/2027-VLDB-Saturn)**  
+  ***Zuohan Wu***, Jiachuan Wang, Jiake Ge, Xujia Li, Libin Zheng, Yongqi Zhang, Shuangyin Li, Lei Chen  
+  *VLDB 2027*, **Accepted; to appear**  
+  [[Code]](https://github.com/hehepig4/saturn)
+
 * **Superficial Reflection or Genuine Thought? A Fine-Grained Cognitive Analysis of Large Reasoning Models**  
   Yuxiang Chen<sup>&#42;</sup>, ***Zuohan Wu***<sup>&#42;</sup>, Ziwei Wang, Xiangning Yu, Xujia Li, Linyi Yang, Mengyue Yang, Jun Wang, Lei Chen  
   *Findings of AACL-IJCNLP 2026*, **Accepted; to appear**  
@@ -98,7 +103,7 @@ Academic Service
 * **Conference Volunteer**: VLDB 2025
 * **Conference Attendance**: ICDE 2026, ICDE 2023, NDBC 2023
 
-*Last updated: September 2026*
+*Last updated: November 2026*
 
 <!-- Talks
 ======

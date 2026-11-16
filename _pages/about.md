@@ -27,7 +27,8 @@ My research focuses on developing intelligent systems that automate complex and 
 
 ## Recent News
 
-- **[Oct 2026]** Our paper "[Saturn: Agentic Natural Language-Driven Tabular Data Discovery](/publication/2027-VLDB-Saturn)" has been accepted to **VLDB 2027**! [Code](https://github.com/hehepig4/saturn)
+- **[Nov 2026]** Our paper "[GraphR²: Complexity-Aligned Hierarchical Learning for Generalizable and Compositional Graph Reasoning](/publication/2027-KDD-GraphR2)" has been accepted to **KDD 2027 (Research Track)**!
+- **[Oct 2026]** Our paper "[Saturn: Agentic Natural Language-Driven Tabular Data Discovery](/publication/2027-VLDB-Saturn)" has been accepted to **VLDB 2027**! [PDF](/files/2026-PVLDB-Saturn.pdf) · [Code](https://github.com/hehepig4/saturn)
 - **[Sep 2026]** Our paper "[Superficial Reflection or Genuine Thought? A Fine-Grained Cognitive Analysis of Large Reasoning Models](/publication/2026-AACL-CognitiveAnalysis)" has been accepted to **Findings of AACL-IJCNLP 2026**! [PDF](/files/2026-AACL-CognitiveAnalysis.pdf) · [Code](https://github.com/hehepig4/psyche)
 - **[Sep 2026]** New preprint: "[RuleMem: Active Rule Memory for Long-Term Conversational Agents](/publication/2026-arXiv-RuleMem)" is now available on [arXiv](https://arxiv.org/abs/2609.03915)!
 - **[Jan 2026]** Our paper "[DA-RAG: Dynamic Attributed Community Search for Retrieval-Augmented Generation](/publication/2026-WWW-DARAG)" has been accepted by **WWW 2026**! [DOI](https://doi.org/10.1145/3774904.3792430)

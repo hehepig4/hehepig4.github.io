@@ -21,12 +21,17 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 ### Forthcoming
 
-* **[Saturn: Agentic Natural Language-Driven Tabular Data Discovery](/publication/2027-VLDB-Saturn)**  
-  ***Zuohan Wu***, Jiachuan Wang, Jiake Ge, Xujia Li, Libin Zheng, Yongqi Zhang, Shuangyin Li, Lei Chen  
-  *VLDB 2027*, **Accepted; to appear**  
-  [[Code]](https://github.com/hehepig4/saturn)
+* **[GraphR²: Complexity-Aligned Hierarchical Learning for Generalizable and Compositional Graph Reasoning](/publication/2027-KDD-GraphR2)**  
+  Liping Wang, ***Zuohan Wu***, Cheng Zhang, Xujia Li, Lei Chen  
+  *KDD 2027 (Research Track)*, **Accepted; to appear**
 
 ### 2026
+
+* **[Saturn: Agentic Natural Language-Driven Tabular Data Discovery](/publication/2027-VLDB-Saturn)**  
+  ***Zuohan Wu***, Jiachuan Wang, Jiake Ge, Xujia Li, Libin Zheng, Yongqi Zhang, Shuangyin Li, Lei Chen  
+  *Proceedings of the VLDB Endowment (PVLDB)*, vol. 20, no. 3, pp. 811-825, 2026 (**VLDB 2027**), **Accepted; to appear**  
+  DOI: `10.14778/3860016.3860042`  
+  [[PDF]](/files/2026-PVLDB-Saturn.pdf) [[Code]](https://github.com/hehepig4/saturn)
 
 * **Superficial Reflection or Genuine Thought? A Fine-Grained Cognitive Analysis of Large Reasoning Models**  
   Yuxiang Chen<sup>&#42;</sup>, ***Zuohan Wu***<sup>&#42;</sup>, Ziwei Wang, Xiangning Yu, Xujia Li, Linyi Yang, Mengyue Yang, Jun Wang, Lei Chen  

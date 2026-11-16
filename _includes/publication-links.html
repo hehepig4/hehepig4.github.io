@@ -1,11 +1,14 @@
 {% assign publication = include.publication %}
-{% if publication.pdfurl or publication.doi or publication.arxivurl or publication.codeurl or publication.dblpurl %}
+{% if publication.pdfurl or publication.doi or publication.anthologyurl or publication.arxivurl or publication.codeurl or publication.dblpurl %}
 <p class="publication__links">
   {% if publication.pdfurl %}
     <a class="btn btn--inverse btn--small" href="{% unless publication.pdfurl contains '://' %}{{ site.baseurl }}{% endunless %}{{ publication.pdfurl }}">PDF</a>
   {% endif %}
   {% if publication.doi %}
     <a class="btn btn--inverse btn--small" href="https://doi.org/{{ publication.doi }}">DOI</a>
+  {% endif %}
+  {% if publication.anthologyurl %}
+    <a class="btn btn--inverse btn--small" href="{{ publication.anthologyurl }}">ACL Anthology</a>
   {% endif %}
   {% if publication.arxivurl %}
     <a class="btn btn--inverse btn--small" href="{{ publication.arxivurl }}">{{ publication.arxiv_label | default: 'arXiv' }}</a>

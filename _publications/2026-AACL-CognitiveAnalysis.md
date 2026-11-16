@@ -5,15 +5,19 @@ permalink: /publication/2026-AACL-CognitiveAnalysis
 redirect_from:
   - /publication/2025-arXiv-ProbingPsyche
 excerpt: 'A fine-grained taxonomy and the CAPO annotation framework reveal how large reasoning models organise information, reflect, and self-correct, with validation across model generations and reasoning domains.'
+# Website entry date; the proceedings publication month is recorded separately.
 date: 2026-09-07
-venue: 'Findings of AACL-IJCNLP 2026'
-publication_status: accepted
-paperurl: '/files/2026-AACL-CognitiveAnalysis.pdf'
-pdfurl: '/files/2026-AACL-CognitiveAnalysis.pdf'
+publication_month: 'November 2026'
+venue: 'Findings of the Association for Computational Linguistics: IJCNLP-AACL 2026'
+publication_status: published
+paperurl: 'https://aclanthology.org/2026.findings-aacl.229.pdf'
+pdfurl: 'https://aclanthology.org/2026.findings-aacl.229.pdf'
+doi: '10.18653/2026.findings-aacl.229'
+anthologyurl: 'https://aclanthology.org/2026.findings-aacl.229/'
 arxivurl: 'https://arxiv.org/abs/2512.00729'
 arxiv_label: 'Earlier arXiv version'
 codeurl: 'https://github.com/hehepig4/psyche'
-citation: 'Yuxiang Chen<sup>&#42;</sup>, Zuohan Wu<sup>&#42;</sup>, Ziwei Wang, Xiangning Yu, Xujia Li, Linyi Yang, Mengyue Yang, Jun Wang, Lei Chen. &quot;Superficial Reflection or Genuine Thought? A Fine-Grained Cognitive Analysis of Large Reasoning Models.&quot; <i>Findings of AACL-IJCNLP 2026</i>, accepted. <sup>&#42;</sup>Equal contribution.'
+citation: 'Yuxiang Chen<sup>&#42;</sup>, Zuohan Wu<sup>&#42;</sup>, Ziwei Wang, Xiangning Yu, Xujia Li, Linyi Yang, Mengyue Yang, Jun Wang, Lei Chen. &quot;Superficial Reflection or Genuine Thought? A Fine-Grained Cognitive Analysis of Large Reasoning Models.&quot; <i>Findings of the Association for Computational Linguistics: IJCNLP-AACL 2026</i>, pp. 4530-4548, 2026. Association for Computational Linguistics. DOI: 10.18653/2026.findings-aacl.229. <sup>&#42;</sup>Equal contribution.'
 ---
 
 ## Abstract
@@ -29,38 +33,53 @@ Motivated by the observed human-like behaviours in Large Reasoning Models (LRMs)
 
 ## Publication Details
 
-- **Venue**: Findings of AACL-IJCNLP 2026
-- **Year**: 2026
-- **Status**: Accepted; to appear
-- **Paper**: [Camera-ready PDF](/files/2026-AACL-CognitiveAnalysis.pdf)
+- **Venue**: Findings of the Association for Computational Linguistics: IJCNLP-AACL 2026
+- **Published**: {{ page.publication_month }}
+- **Pages**: 4530-4548
+- **Publisher**: Association for Computational Linguistics
+- **Location**: Hengqin, China
+- **Status**: Published
+- **ACL Anthology**: [2026.findings-aacl.229](https://aclanthology.org/2026.findings-aacl.229/)
+- **DOI**: [10.18653/2026.findings-aacl.229](https://doi.org/10.18653/2026.findings-aacl.229)
+- **Paper**: [Official proceedings PDF](https://aclanthology.org/2026.findings-aacl.229.pdf)
 - **Code and data**: [GitHub](https://github.com/hehepig4/psyche)
 - **Earlier version**: [arXiv:2512.00729](https://arxiv.org/abs/2512.00729), originally titled *Probing the "Psyche" of Large Reasoning Models: Understanding Through a Human Lens* (2025).
 
 ## Authors
 
-Yuxiang Chen<sup>&#42;</sup>, **Zuohan Wu**<sup>&#42;</sup>, Ziwei Wang, Xiangning Yu, Xujia Li, Linyi Yang, Mengyue Yang, Jun Wang, Lei Chen
+Yuxiang Chen<sup>&#42;</sup>, **Zuohan Wu**<sup>&#42;</sup>, Ziwei Wang, Xiangning Yu, Xujia Li<sup>&#8224;</sup>, Linyi Yang, Mengyue Yang, Jun Wang, Lei Chen
 
-<sup>&#42;</sup>Equal contribution.
+<sup>&#42;</sup>Equal contribution. <sup>&#8224;</sup>Corresponding author.
 
 ## BibTeX
 
 {% raw %}
 ```bibtex
-@inproceedings{chen2026cognitiveanalysis,
-  author       = {Yuxiang Chen and
-                  Zuohan Wu and
-                  Ziwei Wang and
-                  Xiangning Yu and
-                  Xujia Li and
-                  Linyi Yang and
-                  Mengyue Yang and
-                  Jun Wang and
-                  Lei Chen},
-  title        = {Superficial Reflection or Genuine Thought? A Fine-Grained Cognitive Analysis of Large Reasoning Models},
-  booktitle    = {Findings of AACL-IJCNLP 2026},
-  year         = {2026},
-  note         = {Accepted, to appear},
-  url          = {https://hehepig4.github.io/files/2026-AACL-CognitiveAnalysis.pdf}
+@inproceedings{chen-etal-2026-superficial,
+    title = "Superficial Reflection or Genuine Thought? A Fine-Grained Cognitive Analysis of Large Reasoning Models",
+    author = "Chen, Yuxiang  and
+      Wu, Zuohan  and
+      Wang, Ziwei  and
+      Yu, Xiangning  and
+      Li, Xujia  and
+      Yang, Linyi  and
+      Yang, Mengyue  and
+      Wang, Jun  and
+      Chen, Lei",
+    editor = "Zhang, Yue  and
+      Xu, Ruifeng  and
+      Purwarianti, Ayu  and
+      Rong, Tong  and
+      Suzuki, Jun",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {IJCNLP}-{AACL} 2026",
+    month = nov,
+    year = "2026",
+    address = "Hengqin, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.findings-aacl.229/",
+    doi = "10.18653/2026.findings-aacl.229",
+    pages = "4530--4548",
+    ISBN = "979-8-89176-444-6"
 }
 ```
 {% endraw %}
